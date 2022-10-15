@@ -4,8 +4,14 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AmmarrBN&layout=compact&theme=monokai&langs_count=12"/><br />
 </p>
 
+<details>
+    <summary>&#127942 <b>GitHub Activity</b></summary><br/>
+
+![Metrics](https://metrics.lecoq.io/AmmarrBN?)
+</details> 
+
 <!--
-**hekelnub/hekelnub** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AmmarrBN/AmmarrBN** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
