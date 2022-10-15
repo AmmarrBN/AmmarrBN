@@ -22,7 +22,7 @@
   <a href="https://instagram.com/ammarexecuted"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   <a href="https://wa.me/6288229683561"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" />
   <a href="https://www.facebook.com/ammarexecuted"><img src="https://img.shields.io/badge/Facebook-%234267B2.svg?&style=for-the-badge&logo=facebook&logoColor=white" />
-  <a href="[https://youtube.com/channel/UCyxWbQIfP1ewwQou-gqZ2Iw](https://youtube.com/channel/UCyxWbQIfP1ewwQou-gqZ2Iw)"><img src="https://img.shields.io/badge/YouTube-AmmarrBN-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/channel/UCyxWbQIfP1ewwQou-gqZ2Iw" /><br>
+  <a href="https://youtube.com/channel/UCFeZ5BGt8lbOZwIj2MNOlIQ"><img src="https://img.shields.io/badge/YouTube-AmmarBN-ff0000?style=for-the-badge&logo=youtube&logoColor=ff0000&link=https://youtube.com/c/Ammar-Executed" /><br>
  <amaan=AzRyCb&label=VIEWS&style=flat-square&color=orange" />
   <a href="https://komarev.com/ghpvc/?username=AmmarrBN&color=blue&style=flat-square&label=Profile+Views"><img title="Watching" src="https://komarev.com/ghpvc/?username=AmmarrBN&color=green&style=flat-square&label=Profile+View"></a>
 </hal>                                                    
